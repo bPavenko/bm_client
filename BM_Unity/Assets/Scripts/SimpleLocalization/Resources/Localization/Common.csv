@@ -1,0 +1,85 @@
+Key,Russian,Ukranian
+InvalidOrganizationText,Вы указали IP адрес не вашей организации.,Ви вказали IP адрес не вашої організації.
+NoCompanyText,Нет организаций,Нема організацій
+RemoveSelectedOrgText,Удалить выбранную организацию,Видалити обрану організацію
+AddOrgText,Добавить новую организацию,Додати нову організацію
+ContinueText,Далее,Далі
+SelectOrgTitle,Выбрать организацию,Вибрати організацію
+NameOfOrgText,Название,Назва
+CodeOfOrgText,Код организации,Код організації
+IpOfOrgText,IP- адрес,IP- адреса
+AddText,Добавить,Додати
+UnknownLogin,В организации нет такого логина.,В організації немає такого логіна.
+InvalidPassword,Пароль неверный!,Пароль невірний!
+InvalidOrganizationIp,По IP текущей организации сервер не запущен.,За IP поточної організації сервер не запущений.
+UnknownError,Неизвестная ошибка.,Невідома помилка.
+OkText,Ок,Ок
+CancelText,Отмена,Відміна
+AttentionText,Внимание!,Увага!
+AuthText,Авторизация,Авторизація
+LoginText,Логин,Логін
+PasswordText,Пароль,Пароль
+SignInText,Войти,Увійти
+PaidText,оплачено,сплачено
+NotPaidText,не оплачено,не сплачено
+ShippedText,отгружено,відвантажено
+InstallmentText,рассрочка,розстрочка
+NotificationsText,Уведомления,Повідомлення
+AccountText,Аккаунт,Аккаунт
+SettingsText,Настройки,Налаштування
+CashierText,Бухгалтер/Касса,Бухгалтер/Каса
+StorekeepersText,Кладовщики,Комірники
+ManagersText,Менеджеры,Менеджери
+NotesText,Заметки,Нотатки
+DataBaseText,База данных,База даних
+ReportsText,Отчеты,Звіти
+CatalogText,Каталог,Каталог
+OrdersText,Заказы,Замовлення
+BackText,Назад,Назад
+SearchText,Поиск...,Пошук...
+FilterByText,Фильтровать по:,Фільтрувати за:
+OrderStatusText,Статус заказа,Статус замовлення
+CreatedDateText,Дата создания,Дата створення
+CurrentWeekFilter,за текущую неделю,за поточний тиждень
+CurrentMonthFilter,за текущий месяц,за поточний місяць
+LastMonthFilter,за прошлый месяц,за минулий місяць
+ApplyText,Применить,Застосувати
+OrderSumText,Сумма заказа:,Сума замовлення:
+ProductsCountText,Количество товара:,Кількість товару:
+OrderCommentText,Комментарий к заказу:,Коментар до замовлення:
+CommentText,Комментарий...,Коментар...
+AddProductText,Добавить товар,Додати товар
+ShipText,Отгрузить,Відвантажити
+ProductsCatalogText,Каталог товаров,Каталог товарів
+AddCategoryText,Добавить категорию,Додати категорію
+MakeOrderText,Создать заказ,Створити замовлення
+AddPhotoText,Изменить фото,Змінити фото
+AddDescriptionText,Добавить описание...,Додати опис...
+CharacteristicsText,Основные характеристики,Основні характеристики
+WarehousePlaceText,Место на складе,Місце на складі
+NewOrderTitle,Новый заказ,Нове замовлення
+OrderSumWithDiscountText,Сумма заказа с учетом скидки:,Сума замовлення з урахуванням знижки:
+SelectClientText,Выбрать клиента,Обрати клієнта
+DiscountText,Скидка,Знижка
+SaveText,Сохранить,Зберегти
+EnterMessageText,Введите текст...,Введіть текст...
+ClientsListText,Список клиентов,Список клієнтів
+ManagerText,Менеджер:,Менеджер:
+CommentByClientText,Комментарий по клиенту:,Коментар по клієнту:
+DiscountDotsText,Скидка:,Знижка:
+EmailText,E-mail:,E-mail:
+PhoneText,Телефон:,Телефон:
+DefaultClientNameText,Наименование клиента,Найменування клієнта
+SelectManagerText,Выбрать менеджера,Обрати менеджера
+ManagersListText,Список менеджеров,Список менеджерів
+DefaultManagerNameText,Наименование менеджера,Найменування менеджера
+SalaryDotsText,Ставка (%):,Ставка (%):
+LoginDotsText,Логин:,Логін:
+PasswordDotsText,Пароль:,Пароль:
+OtherParamsText,Другие параметры:,Інші параметри:
+AddStoreKeeperRoleText,Добавить роль кладовщика,Додати роль комірника
+StorekeepersListText,Список кладовщиков,Список комірників
+DefaultStorekeeperNameText,Наименование кладовщика,Найменування комірника
+CashiersListText,Список бухгалтеров / касс,Список бухгалтерів / кас
+DefaultCashierNameText,Наименование бухгалтера,Найменування бухгалтера
+SectionsReportsText,Отчеты по разделам,Звіти по розділах
